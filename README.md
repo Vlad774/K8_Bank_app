@@ -33,7 +33,7 @@ This project demonstrates the deployment of a full-stack Spring Boot Banking App
 - ✔ Load-balanced external access to Spring Boot BankApp using Kubernetes Service
   
 ## Walk-through:
- ![First try](https://github.com/Vlad774/K8_Bank_app/blob/main/images/Ec2.png)
+ ![First try](https://github.com/Vlad774/K8_Bank_app/blob/main/images/Diagrama.png)
  ![First try](https://github.com/Vlad774/K8_Bank_app/blob/main/images/Ec2.png) 
  ![First try](https://github.com/Vlad774/K8_Bank_app/blob/main/images/volumes.png) 
  ![First try](https://github.com/Vlad774/K8_Bank_app/blob/main/images/running_services.png)
